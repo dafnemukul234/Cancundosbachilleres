@@ -1,0 +1,40 @@
+#titulo3{
+    text-align: center;
+}
+#img2{
+    text-align: center;
+}
+#tit3{
+    text-align: center;
+    font-size: 30px;
+     display: inline-block;
+    text-align: center;
+    font-family: cursive;
+    width: 100%;
+    font-size: 45px;
+    color: darkcyan;
+    border: solid black 5px;
+}
+#titulo2{
+    text-align: center;
+    font-family:monospace;
+    text-align: center;
+    font-family:monospace;
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+    width: 100%;
+    clear:both;
+    background-color: aquamarine;
+}
+#texto{
+    text-align: justify;
+    font-size: 22px;
+}
+#listafrm{
+    text-align: left;
+}
+
+body{
+    background-color: darkgrey;
+}
